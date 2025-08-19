@@ -9,9 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Building 3,</p>
-    <p>8 Somapah Rd,</p>
-    <p>Singapore 487372</p>
+    <p>Email: haoyu_tang@mymail.sutd.edu.sg</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -26,6 +24,29 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Hi, I am a first-year PhD student in the Computer Graphics Laboratory (CGL) at Singapore University of Technology and Design (SUTD), supervised by Prof. Peng Song.
+
+##### **Education**
+
+<table border="0" cellspacing="0" cellpadding="8" style="font-size:14px;">
+  <tbody>
+    <tr style="height:40px;">
+      <td style="width:120px;">2024–Present</td>
+      <td>PhD</td>
+      <td>SUTD</td>
+    </tr>
+    <tr style="height:40px;">
+      <td style="width:120px;">2021–2024</td>
+      <td>Msc</td>
+      <td>RWTH Aachen University</td>
+    </tr>
+    <tr style="height:40px;">
+      <td style="width:120px;">2017–2021</td>
+      <td>BEng</td>
+      <td>Jiangsu University of Science and Technology</td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
